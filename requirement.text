@@ -1,0 +1,13 @@
+torch==2.7.1+cu118
+transformers==4.24.0
+datasets==2.12.0
+tokenizers==0.13.3
+tqdm==4.67.1
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.10.6
+tiktoken==0.12.0
+jieba==0.42.1
+modelscope==1.16.0
+lxml==5.2.2
+pyarrow==18.0.0
